@@ -18,8 +18,7 @@ Screenshot:
 - Tool: **R programming language** for statistical computing and modelling.  
 - Approach: Descriptive statistics, bivariate associations, and **multinomial logistic regression models**.  
 - Variables: Food insecurity (dependent), water insecurity (main independent), plus controls (income insecurity, asset score, education, rural/urban residence).  
-## Project Preview
-Screenshot: 
+
 
 ## Results  
 - **Water insecurity is a robust predictor of food insecurity**, even after controlling for socio‑demographic factors.  
