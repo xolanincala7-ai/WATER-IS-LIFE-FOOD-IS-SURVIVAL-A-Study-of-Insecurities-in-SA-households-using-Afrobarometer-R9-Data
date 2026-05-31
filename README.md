@@ -8,7 +8,7 @@ Capstone project analysing Afrobarometer Round 9 (2022) data to explore how wate
 This capstone project investigates the **relationship between water insecurity and food insecurity in South African households**, using **Afrobarometer Round 9 survey data (2022)**. The study asks how water insecurity, alongside socio‑demographic factors, influences the likelihood of food shortages — situating the analysis within South Africa’s **National Development Plan 2030** and broader developmental goals.
 
 ## Project Preview 
-Screenshot: 
+Screenshot: https://github.com/xolanincala7-ai/WATER-IS-LIFE-FOOD-IS-SURVIVAL-A-Study-of-Insecurities-in-SA-households-using-Afrobarometer-R9-Data/blob/main/capstone.screenshot.png
 
 ## Data Source  
 - **Afrobarometer Round 9 (South Africa, 2022)** — nationally representative sample of 1,542 respondents.  
