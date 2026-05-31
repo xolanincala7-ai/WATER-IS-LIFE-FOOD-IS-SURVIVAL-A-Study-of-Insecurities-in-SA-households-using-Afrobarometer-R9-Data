@@ -1,0 +1,2 @@
+# WATER-IS-LIFE-FOOD-IS-SURVIVAL-A-Study-of-Insecurities-in-SA-households-using-Afrobarometer-R9-Data
+Capstone project analysing Afrobarometer Round 9 (2022) data to explore how water insecurity predicts food insecurity in South African households. Using advanced statistical modelling in R, the study highlights the socio‑demographic drivers of everyday insecurities and contributes to national development debates under the NDP 2030.
